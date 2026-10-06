@@ -1,0 +1,1 @@
+Observación: Se realizaron cambios sobre el proyecto para evaluar el manejo del Working Directory, Staging Area y repositorio local mediante Git.

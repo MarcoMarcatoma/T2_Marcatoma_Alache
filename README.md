@@ -11,3 +11,8 @@ Repositorio Git local correspondiente al proyecto de evaluación T2 del curso Le
 ## Control de cambios
 
 Se realizaron modificaciones al proyecto para gestionar los cambios mediante Git y controlar correctamente el Working Directory, Staging Area y repositorio local.
+## Gestión de ramas
+
+Rama utilizada: feature-Marcatoma
+
+Se desarrolló la clase ControlVersion_Marcatoma.java como una nueva funcionalidad de manera independiente utilizando una rama de Git.
